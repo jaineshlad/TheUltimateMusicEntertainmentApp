@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mnuCreatePlaylist" android:title="Create PlayList"></item>
+    <item android:id="@+id/mnuViewPlaylist" android:title="View Playlist"></item>
+    <item android:id="@+id/mnuRating" android:title="Rate App"></item>
+    <item android:id="@+id/mnuViewAudience" android:title="View Audience"></item>
+    <item android:id="@+id/mnuLogOut" android:title="Log Out"></item>
+</menu>
